@@ -1,7 +1,7 @@
 +++
 title = "Barrierefrei durch die Stadt? "
 date = "2024-04-25"
-draft = true
+draft = false
 pinned = false
 description = "Barrierefrei durch die Stadt? \n \nDas Reisen auf zwei Rädern in der Stadt Bern: Wie viel hat sich seit dem Behindertengleichstellungsgesetz im öffentlichen Verkehr der Schweiz verändert und wie stehen Menschen mit Beeinträchtigung dazu?  \n \nVon Amélie Salacrist und Mascha Aregger \n\nBeim RBS-Bahnhof sieht man viele orange Züge, und Leute die ein und aussteigen. Wie in einer Maschine, funktioniert alles nach Takt. Gestresste Leute sieht man überall. Es ist Stosszeit am Bahnhof Bern. Personen begeben sich zur Treppe, um dort dann zu ihrem Anschluss zu gelangen. Doch für Phillipp stellt dies eine unüberwindbare Barriere dar. Die Treppe, die in vieler unseren Köpfen als Teil der Routine angesehen wird, ist für ihn nicht brauchbar. Denn er ist auf einen Rohrstuhl angewiesen.\n\nDer ÖV in der Schweiz gilt als zuverlässig, sauber und gut vernetzt. Doch für einige Menschen ist das nebensächlich, wenn sie sich in diesem Verkehr nicht barrierefrei bewegen können. Seit über 20 Jahren arbeitet man in der Schweiz daran, die Benachteiligungen für Menschen mit Beeinträchtigungen zu verringern und den ÖV universal zugänglich zu machen. Dafür trat ein Gesetz Bundesweit in Kraft, welches neue Forderungen für die Infrastruktur im ÖV in den Mittelpunkt gebracht hat. Welche Fortschritte konnte die Schweiz seitdem machen? \n\n"
 footnotes = "Amélie Salacrist und Mascha Aregger, Reportage aus 2024"
