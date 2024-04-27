@@ -6,7 +6,7 @@ pinned = false
 description = "\n"
 footnotes = "Amélie Salacrist und Mascha Aregger, Reportage aus 2024"
 +++
-Das Reisen auf zwei Rädern in der Stadt Bern: Wie viel hat sich seit dem Behindertengleichstellungsgesetz im öffentlichen Verkehr der Schweiz verändert und wie stehen Menschen mit Beeinträchtigung dazu?  
+Das Reisen auf zwei Rädern in der Stadt Bern: Wie viel hat sich seit dem Behindertengleichstellungsgesetz im öffentlichen Verkehr der Schweiz verändert und wie stehen Menschen mit Beeinträchtigung dazu? (H2)
 
  
 
