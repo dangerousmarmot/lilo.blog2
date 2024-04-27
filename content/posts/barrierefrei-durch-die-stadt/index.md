@@ -16,7 +16,7 @@ Der Nah- und Fernverkehr in der Schweiz gilt als zuverlässig, sauber und gut ve
 
 {{<box title="Das Behindertengleichstellungsgesetz">}}
 
-Das Behindertengleichstllungsgestz
+Das Behindertengleichstellungsgestz
 
 Das Gesetz trat im Januar 2004 in Kraft und steht für eine Gleichsetzung von Menschen, die mit einer Behinderung leben. Das Ziel des Gesetzes, ist es die Benachteiligung beeinträchtigter Menschen zu minimieren. So sollten Menschen mit einer Behinderung besser in die Gesellschaft integriert werden. Um das zu erreichen, fordert das Behindertengleichstellungsgesetz Massnahmen zur Beseitigung der Benachteiligungen dieser Personen. Ein zentraler Punkt ist die gerechte Gestaltung des Öffentlichen Verkehrs. In einer Verordnung sind die Zahlen und Masse festgehalten, nach denen sich der ÖV richten muss. Grundsätzlich hat das Gesetz an allen öffentlich zugänglichen Orten Wirkungskraft. Ausserdem bei Wohngebäuden mit über 8 Wohnungen und bei Gebäuden, die mehr als 50 Arbeitende unterbringen. Auch im Bereich der Dienstleistung, Ausbildung wie auch Weiterbildung und bei den Arbeitsverhältnissen muss eine Gleichstellung von Menschen mit einer Beeinträchtigung vorhanden sein.
 
