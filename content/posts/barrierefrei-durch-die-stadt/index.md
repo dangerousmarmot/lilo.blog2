@@ -1,7 +1,7 @@
 +++
 title = "Barrierefrei durch die Stadt? "
 date = "2024-04-28"
-draft = true
+draft = false
 pinned = false
 image = "bild-welle-7-komprimiert.png"
 description = ""
