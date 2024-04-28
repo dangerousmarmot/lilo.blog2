@@ -7,7 +7,7 @@ image = "bild-welle-7-komprimiert.png"
 description = ""
 footnotes = "Mascha Aregger und Amélie Salacrist"
 +++
-**Die Mobilität von Menschen mit einer körperlichen Beeinträchtigung**
+**Die Mobilität von Menschen mit einer körperlichen Beeinträchtigung** 
 
 
 
