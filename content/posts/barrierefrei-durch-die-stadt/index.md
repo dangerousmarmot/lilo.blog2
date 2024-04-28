@@ -8,7 +8,7 @@ image = "bild-welle-7-komprimiert.png"
 description = "Reportage zu Barrierefreiheit"
 footnotes = "Mascha Aregger und Amélie Salacrist"
 +++
-**Die Mobilität von Menschen mit einer körperlichen Beeinträchtigung**
+**Die Mobilität von Menschen mit einer körperlichen Beeinträchtigung** 
 
 Das Reisen auf Rädern in der Stadt Bern: Wie viel hat sich seit dem Behindertengleichstellungsgesetz im öffentlichen Verkehr der Schweiz verändert und wie stehen Menschen mit Beeinträchtigung dazu?  
 
