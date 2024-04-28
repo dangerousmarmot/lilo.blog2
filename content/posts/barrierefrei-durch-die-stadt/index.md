@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "bild-welle-7-komprimiert.png"
 description = ""
-footnotes = "Amélie Salacrist und Mascha Aregger, Reportage aus 2024"
+footnotes = "Mascha Aregger und Amélie Salacrist"
 +++
 **Die Mobilität von Menschen mit einer körperlichen Beeinträchtigung**
 
