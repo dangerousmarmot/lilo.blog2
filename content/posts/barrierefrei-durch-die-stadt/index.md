@@ -18,14 +18,6 @@ Am RBS-Bahnhof sieht man viele orange Züge und Leute, die ein- und aussteigen. 
 Der Nah- und Fernverkehr in der Schweiz gilt als zuverlässig, sauber und gut vernetzt. Doch für einige Menschen ist das nebensächlich, wenn sie sich im Verkehr nicht barrierefrei bewegen können. Seit einiger Zeit arbeitet man in der Schweiz daran, die Benachteiligungen für Menschen mit Beeinträchtigung zu verringern und die Transportmittel universal zugänglich zu machen. Dafür trat ein Gesetz bundesweit in Kraft, welche neue Forderungen für die ÖV-Infrastruktur in den Mittelpunkt gebracht hat.
 
 
-
-
-
-
-
-
-
-
  {{<box> }}
 
 **Behindertengleichstellungsgesetz**
