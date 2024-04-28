@@ -3,8 +3,9 @@ title = "Barrierefrei durch die Stadt? "
 date = "2024-04-28"
 draft = false
 pinned = false
+tags = ["#Reportage"]
 image = "bild-welle-7-komprimiert.png"
-description = ""
+description = "Reportage zu Barrierefreiheit"
 footnotes = "Mascha Aregger und Amélie Salacrist"
 +++
 
