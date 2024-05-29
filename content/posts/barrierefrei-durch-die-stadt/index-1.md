@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["#Reportage"]
 image = "bild-welle-7-komprimiert.png"
-description = "Reportage zu Barrierefreiheit"
+description = "Reportage"
 footnotes = "Mascha Aregger und Amélie Salacrist"
 +++
 **Die Mobilität von Menschen mit einer körperlichen Beeinträchtigung**
@@ -20,7 +20,7 @@ Der Nah- und Fernverkehr in der Schweiz gilt als zuverlässig, sauber und gut ve
 
  {{<box> }}
 
-**Behindertengleichstellungsgesetz**
+**Das Behindertengleichstellungsgesetz**
 
 Das Gesetz trat im Januar 2004 in Kraft und steht für eine Gleichsetzung von Menschen, die mit einer Behinderung leben, und Menschen ohne Behinderung.
 
